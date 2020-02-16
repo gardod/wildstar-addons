@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon APIVersion="10" Name="CommandlineEquipmentManager" Version="1.0" Author="Andrej" Description="Command line Equipment Manager">
+    <Script Name="CommandlineEquipmentManager.lua"/>
+</Addon>

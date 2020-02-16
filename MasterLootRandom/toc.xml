@@ -1,0 +1,3 @@
+<Addon Name="MasterLootRandom" Version="2.00" Author="Andrej" APIVersion="10" Description="You can now assign loot to a random person.">
+    <Script Name="MasterLootRandom.lua"/>
+</Addon>

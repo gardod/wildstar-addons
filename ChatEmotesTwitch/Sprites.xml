@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sprites>
+    <Sprite Name="1" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\1.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="2" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\2.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="3" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\3.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="4" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\4.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="5" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\5.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="6" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\6.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="7" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\7.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="8" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\8.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="9" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\9.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="10" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\10.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="11" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\11.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="12" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\12.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="13" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\13.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="14" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\14.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="15" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\15.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="16" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\16.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="17" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\17.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="18" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\18.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="19" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\19.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="20" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\20.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="21" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\21.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="22" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\22.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="23" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\23.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="24" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\24.png" x0="0" x1="0" x2="39" x3="39" x4="39" x5="39" y0="0" y1="0" y2="32" y3="32" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="25" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\25.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="26" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\26.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="27" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\27.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="28" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\28.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="29" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\29.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="30" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\30.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="31" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\31.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="32" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\32.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="33" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\33.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="34" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\34.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="35" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\35.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="36" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\36.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="37" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\37.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="38" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\38.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="39" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\39.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="40" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\40.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="41" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\41.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="42" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\42.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="43" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\43.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="44" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\44.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="45" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\45.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="46" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\46.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="47" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\47.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="48" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\48.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="49" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\49.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="50" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\50.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="51" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\51.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="52" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\52.png" x0="0" x1="0" x2="66" x3="66" x4="66" x5="66" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="53" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\53.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="54" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\54.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="55" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\55.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="56" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\56.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="57" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\57.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="58" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\58.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="59" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\59.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="60" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\60.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="61" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\61.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="62" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\62.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="63" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\63.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="64" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\64.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="65" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\65.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="66" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\66.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="67" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\67.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="68" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\68.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="69" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\69.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="70" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\70.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="71" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\71.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="72" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\72.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="73" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\73.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="74" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\74.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="75" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\75.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="76" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\76.png" x0="0" x1="0" x2="32" x3="32" x4="32" x5="32" y0="0" y1="0" y2="23" y3="23" y4="23" y5="23" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="77" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\77.png" x0="0" x1="0" x2="40" x3="40" x4="40" x5="40" y0="0" y1="0" y2="30" y3="30" y4="30" y5="30" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="78" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\78.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="79" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\79.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="80" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\80.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="81" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\81.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="82" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\82.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="83" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\83.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="84" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\84.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="85" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\85.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="86" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\86.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="87" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\87.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="88" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\88.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="89" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\89.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="90" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\90.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="91" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\91.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="92" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\92.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="93" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\93.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="94" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\94.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="95" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\95.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="96" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\96.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="97" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\97.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="98" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\98.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="99" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\99.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="100" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\100.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="101" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\101.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="102" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\102.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="103" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\103.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="104" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\104.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="106" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\106.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="107" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\107.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="108" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\108.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="109" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\109.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="110" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\110.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="111" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\111.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="112" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\112.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="113" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\113.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="114" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\114.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="115" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\115.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="116" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\116.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="117" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\117.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="118" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\118.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="119" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\119.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="120" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\120.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="121" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\121.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="122" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\122.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="123" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\123.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="124" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\124.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="125" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\125.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="126" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\126.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="127" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\127.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="128" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\128.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="129" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\129.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\129.png" x0="34" x1="34" x2="68" x3="68" x4="68" x5="68" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\129.png" x0="68" x1="68" x2="102" x3="102" x4="102" x5="102" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\129.png" x0="102" x1="102" x2="136" x3="136" x4="136" x5="136" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\129.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="28" y1="28" y2="56" y3="56" y4="56" y5="56" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\129.png" x0="34" x1="34" x2="68" x3="68" x4="68" x5="68" y0="28" y1="28" y2="56" y3="56" y4="56" y5="56" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\129.png" x0="68" x1="68" x2="102" x3="102" x4="102" x5="102" y0="28" y1="28" y2="56" y3="56" y4="56" y5="56" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\129.png" x0="102" x1="102" x2="136" x3="136" x4="136" x5="136" y0="28" y1="28" y2="56" y3="56" y4="56" y5="56" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\129.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="56" y1="56" y2="84" y3="84" y4="84" y5="84" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\129.png" x0="34" x1="34" x2="68" x3="68" x4="68" x5="68" y0="56" y1="56" y2="84" y3="84" y4="84" y5="84" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="130" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\130.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="131" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x000.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x001.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x002.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x003.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x004.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x005.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x006.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x007.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x008.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x009.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x010.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x011.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x012.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x013.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x014.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x015.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x016.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x017.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x018.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x019.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x020.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x021.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x022.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x023.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x024.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x025.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x026.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x027.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x028.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x029.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x030.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x031.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x032.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x033.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x034.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x035.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x036.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x037.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x038.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x039.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x040.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x041.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x042.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x043.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x044.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x045.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x046.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x047.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x048.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x049.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x050.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x051.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x052.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x053.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x054.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x055.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x056.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x057.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x058.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x059.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x060.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x061.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x062.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x063.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x064.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x065.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x066.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x067.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x068.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x069.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x070.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x071.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x072.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x073.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x074.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x075.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x076.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x077.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x078.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x079.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x080.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x081.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x082.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x083.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x084.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x085.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x086.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x087.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x088.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x089.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x090.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x091.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x092.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x093.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x094.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x095.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x096.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x097.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x098.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x099.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x100.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x101.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x102.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x103.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x104.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x105.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x106.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x107.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x108.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x109.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x110.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x111.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x112.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x113.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x114.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x115.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x116.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x117.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x118.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x119.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x120.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x121.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x122.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x123.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+        <Frame Texture="ChatEmotesTwitch\Sprites\131\1x124.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.040" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="132" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\132.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="133" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\133.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="134" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\134.png" x0="0" x1="0" x2="56" x3="56" x4="56" x5="56" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="135" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\135.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="136" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\136.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="137" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\137.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="138" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\138.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="139" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\139.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="140" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\140.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="141" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\141.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="142" Cycle="1">
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\01.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\02.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\03.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\04.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\05.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\06.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\07.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\08.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\09.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\10.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\11.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\12.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\13.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\14.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\15.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\16.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\17.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\18.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\19.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\20.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\21.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\22.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\23.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\24.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\25.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\26.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\27.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\142\28.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	<Sprite Name="143" Cycle="1">
+		<Frame Texture="ChatEmotesTwitch\Sprites\143\1.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\143\2.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\143\3.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+		<Frame Texture="ChatEmotesTwitch\Sprites\143\4.png" x0="0" x1="0" x2="28" x3="28" x4="28" x5="28" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="0.100" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	<Sprite Name="144" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\144.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	<Sprite Name="145" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\145.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	<Sprite Name="146" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\146.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	<Sprite Name="147" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\147.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	<Sprite Name="148" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\148.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	<Sprite Name="149" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\149.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	<Sprite Name="150" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\150.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="151" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\151.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="152" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\152.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="153" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\153.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="154" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\154.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="155" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\155.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="156" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\156.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="157" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\157.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="158" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\158.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="159" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\159.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="160" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\160.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="161" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\161.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="162" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\162.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="163" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\163.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="164" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\164.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	<Sprite Name="165" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\165.png" x0="0" x1="0" x2="39" x3="39" x4="39" x5="39" y0="0" y1="0" y2="32" y3="32" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	<Sprite Name="166" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\166.png" x0="0" x1="0" x2="39" x3="39" x4="39" x5="39" y0="0" y1="0" y2="32" y3="32" y4="32" y5="32" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="167" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\167.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="168" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\168.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="169" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\169.png" x0="0" x1="0" x2="22" x3="22" x4="22" x5="22" y0="0" y1="0" y2="18" y3="18" y4="18" y5="18" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="170" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\170.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="171" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\171.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="172" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\172.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+    <Sprite Name="173" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\173.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	<Sprite Name="174" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\174.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	<Sprite Name="175" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\175.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	<Sprite Name="176" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\176.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	<Sprite Name="177" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\177.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	<Sprite Name="178" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\178.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	<Sprite Name="179" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\179.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	<Sprite Name="180" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\180.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	<Sprite Name="181" Cycle="1">
+        <Frame Texture="ChatEmotesTwitch\Sprites\181.png" x0="0" x1="0" x2="34" x3="34" x4="34" x5="34" y0="0" y1="0" y2="28" y3="28" y4="28" y5="28" Stretchy="1" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="ffffffff" EndColor="ffffffff"/>
+    </Sprite>
+	
+</Sprites>

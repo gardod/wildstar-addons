@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Andrej" APIVersion="14" Name="ChatEmotesTwitch" Description="" Version="2.50">
+    <Script Name="ChatEmotesTwitch.lua"/>
+</Addon>
